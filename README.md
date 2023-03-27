@@ -4,7 +4,6 @@ I'm a computer science major at the University of Maryland who is passionate abo
 ## About Me
 💻 Currently pursuing a Bachelor's degree in Computer Science at the University of Maryland.
 🎯 Interested in the intersection of technology with healthcare, sports, and finance.
-🏆 Competed in several coding competitions and hackathons, including HackUMD and HackMIT.
 🌟 Enjoy collaborating with other developers and constantly learning new things.
 ## My Skills
 Proficient in several programming languages, including Java, Python, and JavaScript.
