@@ -16,4 +16,4 @@ Familiar with various software development tools and frameworks, including Git, 
 <br> Bucket Analytics: A comprehensive NBA statistics app to help fans better understand the game with cool visuals and stats.
 
 If you want to get in touch with me, feel free to send me a message on LinkedIn. I'm always interested in meeting new people and learning about new projects!
-[![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ananth-s)
+<br> [![Linkedin Badge](https://img.shields.io/badge/-ANANTH-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ananth-s)
