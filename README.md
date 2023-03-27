@@ -11,9 +11,9 @@ Experience in software development, data structures, algorithms, and web develop
 Familiar with various software development tools and frameworks, including Git, Node.js, MongoDB and Selenium.
 ## Projects
 # Here are a few projects that I have worked on:
-<br> Run: Recreated popular computer game "Run" using Unity VR.
-<br> FitnessApp: An interactive fitness app made with Android Studio, attempting to build upon existing apps.
-<br> Bucket Analytics: A comprehensive NBA statistics app to help fans better understand the game with cool visuals and stats.
+<br> **Run:**  Recreated popular computer game "Run" using Unity VR.
+<br> **FitnessApp:**  An interactive fitness app made with Android Studio, attempting to build upon existing apps.
+<br> **Bucket Analytics:**  A comprehensive NBA statistics app to help fans better understand the game with cool visuals and stats.
 
 If you want to get in touch with me, feel free to send me a message on LinkedIn. I'm always interested in meeting new people and learning about new projects!
 <br> [![Linkedin Badge](https://img.shields.io/badge/-ANANTH-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ananth-s)
