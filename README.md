@@ -6,14 +6,15 @@ I'm a computer science major at the University of Maryland who is passionate abo
 🎯 Interested in the intersection of technology with healthcare, sports, and finance.
 🏆 Competed in several coding competitions and hackathons, including HackUMD and HackMIT.
 🌟 Enjoy collaborating with other developers and constantly learning new things.
-### My Skills
+## My Skills
 Proficient in several programming languages, including Java, Python, and JavaScript.
 Experience in software development, data structures, algorithms, and web development.
 Familiar with various software development tools and frameworks, including Git, Node.js, and Selenium.
-<br> Projects
-<br> Here are a few projects that I have worked on:
+## Projects
+# Here are a few projects that I have worked on:
+<br> Run: Recreated popular computer game "Run" using Unity VR.
+<br> FitnessApp: An interactive fitness app made with Android Studio, attempting to build upon existing apps.
+<br> Bucket Analytics: A comprehensive NBA statistics app to help fans better understand the game with cool visuals and stats.
 
-<br> Healthcare App: A mobile application that helps patients track their medications and appointments.
-<br> Sports Analytics Dashboard: A web-based dashboard that provides real-time analytics for sports teams and coaches.
-<br> Finance Tracker: A desktop application that helps users track their expenses and savings.
-<br> Github Stats
+If you want to get in touch with me, feel free to send me a message on LinkedIn. I'm always interested in meeting new people and learning about new projects!
+[![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ananth-s)
