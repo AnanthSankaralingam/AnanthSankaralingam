@@ -9,10 +9,11 @@ I'm a computer science major at the University of Maryland who is passionate abo
 Proficient in several programming languages, including Java, Python, and JavaScript.
 Experience in software development, data structures, algorithms, and web development.
 Familiar with various software development tools and frameworks, including Git, Node.js, MongoDB and Selenium.
+
 ## Projects
-<a href="https://www.youtube.com/playlist?list=PLGdfV5UgThVOHphaRyoLcqjDha2mLv9UW" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-Projects-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Playlist">
-</a>
+[![YouTube Playlist](https://img.shields.io/badge/YouTube-Projects-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLGdfV5UgThVOHphaRyoLcqjDha2mLv9UW)
+Explore my projects/tutorials showcased on this YouTube playlist. Click the badge to watch!
+
 # Here are a few projects that I have worked on:
 <br> **Run:**  Recreated popular computer game "Run" using Unity VR.
 <br> **FitnessApp:**  An interactive fitness app made with Android Studio, attempting to build upon existing apps.
