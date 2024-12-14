@@ -10,7 +10,8 @@ Proficient in several programming languages, including Java, Python, and JavaScr
 Experience in software development, data structures, algorithms, and web development.
 Familiar with various software development tools and frameworks, including Git, Node.js, MongoDB and Selenium.
 ## Projects
-[![YouTube Badge](https://www.youtube.com/playlist?list=PLGdfV5UgThVOHphaRyoLcqjDha2mLv9UW)]
+[![YouTube Playlist](https://img.shields.io/badge/YouTube-Projects-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLGdfV5UgThVOHphaRyoLcqjDha2mLv9UW)
+
 # Here are a few projects that I have worked on:
 <br> **Run:**  Recreated popular computer game "Run" using Unity VR.
 <br> **FitnessApp:**  An interactive fitness app made with Android Studio, attempting to build upon existing apps.
