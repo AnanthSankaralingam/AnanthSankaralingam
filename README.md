@@ -15,7 +15,7 @@ Familiar with various software development tools and frameworks, including Git, 
 Explore my projects/tutorials showcased on this YouTube playlist. Click the badge to watch!
 
 # Here are a few projects that I have worked on:
-<br> **Run:**  Recreated popular computer game "Run" using Unity VR.
+<br> **Space Shooter:**  Recreated popular computer gun game using Unity VR.
 <br> **FitnessApp:**  An interactive fitness app made with Android Studio, attempting to build upon existing apps.
 <br> **Bucket Analytics:**  A comprehensive NBA statistics app to help fans better understand the game with cool visuals and stats.
 
